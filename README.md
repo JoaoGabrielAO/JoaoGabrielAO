@@ -6,4 +6,4 @@
 
   Em aprendizado:![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-  ![Seu Status](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+  ![JoaoGabrielAO](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
