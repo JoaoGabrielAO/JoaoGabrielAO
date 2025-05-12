@@ -6,4 +6,4 @@
 
   Em aprendizado:![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
-![]file:///C:/Users/Usuario/Downloads/7_Navegando.gif
+
